@@ -1,0 +1,695 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sri Lanka Holidays Calendar 2025
+X-WR-TIMEZONE:Asia/Colombo
+X-WR-CALDESC:Sri Lanka Holidays Calendar 2025 (Buddhist Era 2568-2569)\n\nSource: http://documents.gov.lk/files/cdr/2025/2025_E.pdf
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250113
+DTEND;VALUE=DATE:20250114
+DTSTAMP:20241203T084727Z
+UID:20250113T120000Z-1234567890abcdef1234567890abcdef@slcalendar.com
+CREATED:20241203T084727Z
+DESCRIPTION:* Public Holiday\n† Bank Holiday\n\n\nPublic Holidays are also 
+ applicable to the Postal\, Customs and Meteorological Departments. Changes 
+ in Public Holidays will be announced by Notification in the Government Gaze
+ tte.\n\nFull Moon Poya Holidays approved by the Poya Committee. These days 
+ are common Holidays applicable to all employees.
+LAST-MODIFIED:20241203T084727Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Duruthu Full Moon Poya Day *†
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT15H
+X-WR-ALARMUID:49ede314-afbd-4b8f-ad05-75822c5379e2
+UID:49ede314-afbd-4b8f-ad05-75822c5379e2
+X-APPLE-DEFAULT-ALARM:TRUE
+ATTACH;VALUE=URI:Chord
+END:VALARM
+END:VEVENT
+ 
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250114
+DTEND;VALUE=DATE:20250115
+DTSTAMP:20241203T084727Z
+UID:20250114T120000Z-1234567890abcdef1234567890abcded@slcalendar.com
+CREATED:20241203T084727Z
+DESCRIPTION:* Public Holiday\n† Bank Holiday\n‡ Mercantile Holiday\n\n\nPub
+ lic Holidays are also applicable to the Postal\, Customs and Meteorological
+  Departments. Changes in Public Holidays will be announced by Notification 
+ in the Government Gazette.
+LAST-MODIFIED:20241203T084727Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Tamil Thai Pongal Day *†‡
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT15H
+X-WR-ALARMUID:69d58a6a-9470-4625-a2c9-01b0a15e37c4
+UID:69d58a6a-9470-4625-a2c9-01b0a15e37c4
+X-APPLE-DEFAULT-ALARM:TRUE
+ATTACH;VALUE=URI:Chord
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250204
+DTEND;VALUE=DATE:20250205
+DTSTAMP:20241203T084727Z
+UID:20250204T120000Z-1234567890abcdef1234567890abcde3@slcalendar.com
+CREATED:20241203T084727Z
+DESCRIPTION:* Public Holiday\n† Bank Holiday\n‡ Mercantile Holiday\n\n\nPub
+ lic Holidays are also applicable to the Postal\, Customs and Meteorological
+  Departments. Changes in Public Holidays will be announced by Notification 
+ in the Government Gazette.
+LAST-MODIFIED:20241203T084727Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Independence Day *†‡
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT15H
+X-WR-ALARMUID:624d207a-c197-49ac-b277-932f1e5f4e49
+UID:624d207a-c197-49ac-b277-932f1e5f4e49
+X-APPLE-DEFAULT-ALARM:TRUE
+ATTACH;VALUE=URI:Chord
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250212
+DTEND;VALUE=DATE:20250213
+DTSTAMP:20241203T084727Z
+UID:20250212T120000Z-1234567890abcdef1234567890abcde3@slcalendar.com
+CREATED:20241203T084727Z
+DESCRIPTION:* Public Holiday\n† Bank Holiday\n\n\nPublic Holidays are also 
+ applicable to the Postal\, Customs and Meteorological Departments. Changes 
+ in Public Holidays will be announced by Notification in the Government Gaze
+ tte.\n\nFull Moon Poya Holidays approved by the Poya Committee. These days 
+ are common Holidays applicable to all employees.
+LAST-MODIFIED:20241203T084727Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Nawam Full Moon Poya Day *†
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT15H
+X-WR-ALARMUID:c01c0974-df81-45c5-808c-496bf127d602
+UID:c01c0974-df81-45c5-808c-496bf127d602
+X-APPLE-DEFAULT-ALARM:TRUE
+ATTACH;VALUE=URI:Chord
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250226
+DTEND;VALUE=DATE:20250227
+DTSTAMP:20241203T084727Z
+UID:1u1hm0r625si3bl6rkr4qlumke@google.com
+CREATED:20241203T084727Z
+DESCRIPTION:* Public Holiday\n† Bank Holiday\n\n\nPublic Holidays are also 
+ applicable to the Postal\, Customs and Meteorological Departments. Changes 
+ in Public Holidays will be announced by Notification in the Government Gaze
+ tte.
+LAST-MODIFIED:20241203T084727Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Maha Shivarathri Day *†
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT15H
+X-WR-ALARMUID:c7f647d7-b48c-4fe3-80c5-8d1f055cab3a
+UID:c7f647d7-b48c-4fe3-80c5-8d1f055cab3a
+X-APPLE-DEFAULT-ALARM:TRUE
+ATTACH;VALUE=URI:Chord
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250313
+DTEND;VALUE=DATE:20250314
+DTSTAMP:20241203T084727Z
+UID:20250313T120000Z-1234567890abcdef1234567890abcde3@slcalendar.com
+CREATED:20241203T084727Z
+DESCRIPTION:* Public Holiday\n† Bank Holiday\n\n\nPublic Holidays are also 
+ applicable to the Postal\, Customs and Meteorological Departments. Changes 
+ in Public Holidays will be announced by Notification in the Government Gaze
+ tte.\n\nFull Moon Poya Holidays approved by the Poya Committee. These days 
+ are common Holidays applicable to all employees.
+LAST-MODIFIED:20241203T084727Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Medin Full Moon Poya Day *†
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT15H
+X-WR-ALARMUID:58af9f6a-7076-4b93-9d26-0665865a45e2
+UID:58af9f6a-7076-4b93-9d26-0665865a45e2
+X-APPLE-DEFAULT-ALARM:TRUE
+ATTACH;VALUE=URI:Chord
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250331
+DTEND;VALUE=DATE:20250401
+DTSTAMP:20241203T084727Z
+UID:20250331T120000Z-1234567890abcdef1234567890abcde3@slcalendar.com
+CREATED:20241203T084727Z
+DESCRIPTION:* Public Holiday\n† Bank Holiday\n\n\nPublic Holidays are also 
+ applicable to the Postal\, Customs and Meteorological Departments. Changes 
+ in Public Holidays will be announced by Notification in the Government Gaze
+ tte.
+LAST-MODIFIED:20241203T084727Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Id-Ul-Fitr (Ramazan Festival Day) *†
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT15H
+X-WR-ALARMUID:a73868e7-c10e-466c-9dab-8b87983a4ecf
+UID:a73868e7-c10e-466c-9dab-8b87983a4ecf
+X-APPLE-DEFAULT-ALARM:TRUE
+ATTACH;VALUE=URI:Chord
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250412
+DTEND;VALUE=DATE:20250413
+DTSTAMP:20241203T084727Z
+UID:20250412T120000Z-1234567890abcdef1234567890abcd12@slcalendar.com
+CREATED:20241203T084727Z
+DESCRIPTION:* Public Holiday\n† Bank Holiday\n\n\nPublic Holidays are also 
+ applicable to the Postal\, Customs and Meteorological Departments. Changes 
+ in Public Holidays will be announced by Notification in the Government Gaze
+ tte.\n\nFull Moon Poya Holidays approved by the Poya Committee. These days 
+ are common Holidays applicable to all employees.
+LAST-MODIFIED:20241203T084727Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Bak Full Moon Poya Day *†
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT15H
+X-WR-ALARMUID:f7e9c048-ab13-4938-9298-436a0c7499bf
+UID:f7e9c048-ab13-4938-9298-436a0c7499bf
+X-APPLE-DEFAULT-ALARM:TRUE
+ATTACH;VALUE=URI:Chord
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250413
+DTEND;VALUE=DATE:20250414
+DTSTAMP:20241203T084727Z
+UID:20250413T120000Z-1234567890abcdef1234567890abc7f1@slcalendar.com
+CREATED:20241203T084727Z
+DESCRIPTION:* Public Holiday\n† Bank Holiday\n‡ Mercantile Holiday\n\n\nPub
+ lic Holidays are also applicable to the Postal\, Customs and Meteorological
+  Departments. Changes in Public Holidays will be announced by Notification 
+ in the Government Gazette.
+LAST-MODIFIED:20241203T084727Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Day Prior to Sinhala and Tamil New Year Day *†‡
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT15H
+X-WR-ALARMUID:ac7ee1c2-4b95-4136-b29e-1a1c144f7528
+UID:ac7ee1c2-4b95-4136-b29e-1a1c144f7528
+X-APPLE-DEFAULT-ALARM:TRUE
+ATTACH;VALUE=URI:Chord
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250414
+DTEND;VALUE=DATE:20250415 
+DTSTAMP:20241203T084727Z
+UID:20250414T120000Z-1234567890abcdef1234567890abcf65@slcalendar.com
+CREATED:20241203T084727Z
+DESCRIPTION:* Public Holiday\n† Bank Holiday\n‡ Mercantile Holiday\n\n\nPub
+ lic Holidays are also applicable to the Postal\, Customs and Meteorological
+  Departments. Changes in Public Holidays will be announced by Notification 
+ in the Government Gazette.
+LAST-MODIFIED:20241203T084727Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Sinhala and Tamil New Year Day *†‡
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT15H
+X-WR-ALARMUID:f2dcaf03-e1f4-4d79-88cd-6ad3f33b0493
+UID:f2dcaf03-e1f4-4d79-88cd-6ad3f33b0493
+X-APPLE-DEFAULT-ALARM:TRUE
+ATTACH;VALUE=URI:Chord
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250415
+DTEND;VALUE=DATE:20250416
+DTSTAMP:20241203T084727Z
+UID:20250415T120000Z-1234567890abcdef1234567890abf98d@slcalendar.com
+CREATED:20241203T084727Z
+LAST-MODIFIED:20241203T084727Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Special Bank Holiday †
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT15H
+X-WR-ALARMUID:f555c8c9-f3dc-400d-967f-c21ecde8964a
+UID:f555c8c9-f3dc-400d-967f-c21ecde8964a
+X-APPLE-DEFAULT-ALARM:TRUE
+ATTACH;VALUE=URI:Chord
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250418
+DTEND;VALUE=DATE:20250419
+DTSTAMP:20241203T084727Z
+UID:20250418T120000Z-1234567890abcdef1234567890abc3b6@slcalendar.com
+CREATED:20241203T084727Z
+DESCRIPTION:* Public Holiday\n† Bank Holiday\n\n\nPublic Holidays are also 
+ applicable to the Postal\, Customs and Meteorological Departments. Changes 
+ in Public Holidays will be announced by Notification in the Government Gaze
+ tte.
+LAST-MODIFIED:20241203T084727Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Good Friday *†
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT15H
+X-WR-ALARMUID:1090d988-9d8b-4719-a5ce-0582b66ba3e4
+UID:1090d988-9d8b-4719-a5ce-0582b66ba3e4
+X-APPLE-DEFAULT-ALARM:TRUE
+ATTACH;VALUE=URI:Chord
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250501
+DTEND;VALUE=DATE:20250502
+DTSTAMP:20241203T084727Z
+UID:20250501T120000Z-1234567890abcdef1234567890abbd72@slcalendar.com
+CREATED:20241203T084727Z
+DESCRIPTION:* Public Holiday\n† Bank Holiday\n‡ Mercantile Holiday\n \n\nPu
+ blic Holidays are also applicable to the Postal\, Customs and Meteorologica
+ l Departments. Changes in Public Holidays will be announced by Notification
+  in the Government Gazette.
+LAST-MODIFIED:20241203T084727Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:May Day *†‡
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT15H
+X-WR-ALARMUID:38536105-41d1-4f80-8c72-c264ab96cd7d
+UID:38536105-41d1-4f80-8c72-c264ab96cd7d
+X-APPLE-DEFAULT-ALARM:TRUE
+ATTACH;VALUE=URI:Chord
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250512
+DTEND;VALUE=DATE:20250513
+DTSTAMP:20241203T084727Z
+UID:20250512T120000Z-1234567890abcdef1234567890ab3d0b@slcalendar.com
+CREATED:20241203T084727Z
+DESCRIPTION:* Public Holiday\n† Bank Holiday\n\n\nPublic Holidays are also 
+ applicable to the Postal\, Customs and Meteorological Departments. Changes 
+ in Public Holidays will be announced by Notification in the Government Gaze
+ tte.\n\nFull Moon Poya Holidays approved by the Poya Committee. These days 
+ are common Holidays applicable to all employees.
+LAST-MODIFIED:20241203T084727Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Vesak Full Moon Poya Day *†
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT15H
+X-WR-ALARMUID:e2004950-d693-4ac8-a58f-eec7be6357a9
+UID:e2004950-d693-4ac8-a58f-eec7be6357a9
+X-APPLE-DEFAULT-ALARM:TRUE
+ATTACH;VALUE=URI:Chord
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250513
+DTEND;VALUE=DATE:20250514
+DTSTAMP:20241203T084727Z
+UID:20250513T120000Z-1234567890abcdef1234567890ab6d1f@slcalendar.com
+CREATED:20241203T084727Z
+DESCRIPTION:* Public Holiday\n† Bank Holiday\n‡ Mercantile Holiday\n\n\nPub
+ lic Holidays are also applicable to the Postal\, Customs and Meteorological
+  Departments. Changes in Public Holidays will be announced by Notification 
+ in the Government Gazette.\n\nFull Moon Poya Holidays approved by the Poya 
+ Committee. These days are common Holidays applicable to all employees.
+LAST-MODIFIED:20241203T084727Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Day Following Vesak Full Moon Poya Day *†‡
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT15H
+X-WR-ALARMUID:2a4a4423-1c4c-4896-b9e2-fa399089d55b
+UID:2a4a4423-1c4c-4896-b9e2-fa399089d55b
+X-APPLE-DEFAULT-ALARM:TRUE
+ATTACH;VALUE=URI:Chord
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250607
+DTEND;VALUE=DATE:20250608
+DTSTAMP:20241203T084727Z
+UID:20250607T120000Z-1234567890abcdef1234567890ab27ec@slcalendar.com
+CREATED:20241203T084727Z
+DESCRIPTION:* Public Holiday\n† Bank Holiday\n\nPublic Hol
+ idays are also applicable to the Postal\, Customs and Meteorological Depart
+ ments. Changes in Public Holidays will be announced by Notification in the 
+ Government Gazette.
+LAST-MODIFIED:20241203T084727Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Id-Ul-Alha (Hadji Festival Day) *†
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT15H
+X-WR-ALARMUID:2097ea81-623e-44b4-a840-8a7204de1422
+UID:2097ea81-623e-44b4-a840-8a7204de1422
+X-APPLE-DEFAULT-ALARM:TRUE
+ATTACH;VALUE=URI:Chord
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250610
+DTEND;VALUE=DATE:20250611
+DTSTAMP:20241203T084727Z
+UID:20250610T120000Z-1234567890abcdef1234567890ab907f@slcalendar.com
+CREATED:20241203T084727Z
+DESCRIPTION:* Public Holiday\n† Bank Holiday\n\nPublic Holidays are also ap
+ plicable to the Postal\, Customs and Meteorological Departments. Changes in
+  Public Holidays will be announced by Notification in the Government Gazett
+ e.\n\nFull Moon Poya Holidays approved by the Poya Committee. These days ar
+ e common Holidays applicable to all employees.
+LAST-MODIFIED:20241203T084727Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Poson Full Moon Poya Day *†
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT15H
+X-WR-ALARMUID:9e56f45f-c7ab-433a-87e7-dd469f2c4fbf
+UID:9e56f45f-c7ab-433a-87e7-dd469f2c4fbf
+X-APPLE-DEFAULT-ALARM:TRUE
+ATTACH;VALUE=URI:Chord
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250710
+DTEND;VALUE=DATE:20250711
+DTSTAMP:20241203T084727Z
+UID:7lh1un914qnsfbndk5nciu5ekv@google.com
+CREATED:20241203T084727Z
+DESCRIPTION:* Public Holiday\n† Bank Holiday\n\nPublic Holidays are also ap
+ plicable to the Postal\, Customs and Meteorological Departments. Changes in
+  Public Holidays will be announced by Notification in the Government Gazett
+ e.\n\nFull Moon Poya Holidays approved by the Poya Committee. These days ar
+ e common Holidays applicable to all employees.
+LAST-MODIFIED:20241203T084727Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Esala Full Moon Poya Day *†
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT15H
+X-WR-ALARMUID:949f1509-3a01-47ac-a53a-9d0e52e06c5b
+UID:949f1509-3a01-47ac-a53a-9d0e52e06c5b
+X-APPLE-DEFAULT-ALARM:TRUE
+ATTACH;VALUE=URI:Chord
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250808
+DTEND;VALUE=DATE:20250809
+DTSTAMP:20241203T084727Z
+UID:20250808T120000Z-1234567890abcdef1234567890abcff3@slcalendar.com
+CREATED:20241203T084727Z
+DESCRIPTION:* Public Holiday\n† Bank Holiday\n\n\nPublic Holidays are also 
+ applicable to the Postal\, Customs and Meteorological Departments. Changes 
+ in Public Holidays will be announced by Notification in the Government Gaze
+ tte.\n\nFull Moon Poya Holidays approved by the Poya Committee. These days 
+ are common Holidays applicable to all employees.
+LAST-MODIFIED:20241203T084727Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Nikini Full Moon Poya Day *†
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT15H
+X-WR-ALARMUID:3fa4fdbe-6500-4421-98db-89095dea8f6e
+UID:3fa4fdbe-6500-4421-98db-89095dea8f6e
+X-APPLE-DEFAULT-ALARM:TRUE
+ATTACH;VALUE=URI:Chord
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250905
+DTEND;VALUE=DATE:20250906
+DTSTAMP:20241203T084727Z
+UID:20250905T120000Z-1234567890abcdef1234567890ab6874@slcalendar.com
+CREATED:20241203T084727Z
+DESCRIPTION:* Public Holiday\n† Bank Holiday\n‡ Mercantile Holiday\n \n\nPu
+ blic Holidays are also applicable to the Postal\, Customs and Meteorologica
+ l Departments. Changes in Public Holidays will be announced by Notification
+  in the Government Gazette.
+LAST-MODIFIED:20241203T084727Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Milad-Un-Nabi (Holy Prophet’s Birthday) *†‡
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT15H
+X-WR-ALARMUID:5b284e8b-8393-4a5c-aa8f-d9e63faee5b8
+UID:5b284e8b-8393-4a5c-aa8f-d9e63faee5b8
+X-APPLE-DEFAULT-ALARM:TRUE
+ATTACH;VALUE=URI:Chord
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250907
+DTEND;VALUE=DATE:20250908
+DTSTAMP:20241203T084727Z
+UID:20250907T120000Z-1234567890abcdef1234567890ab33ca@slcalendar.com
+CREATED:20241203T084727Z
+DESCRIPTION:* Public Holiday\n† Bank Holiday\n\n\nPublic Holidays are also 
+ applicable to the Postal\, Customs and Meteorological Departments. Changes 
+ in Public Holidays will be announced by Notification in the Government Gaze
+ tte.\n\nFull Moon Poya Holidays approved by the Poya Committee. These days 
+ are common Holidays applicable to all employees.
+LAST-MODIFIED:20241203T084727Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Binara Full Moon Poya Day *†
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT15H
+X-WR-ALARMUID:bae46a406-afa5-440a-8f7c-cb510160503
+UID:bae46a406-afa5-440a-8f7c-cb510160503
+X-APPLE-DEFAULT-ALARM:TRUE
+ATTACH;VALUE=URI:Chord
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251006
+DTEND;VALUE=DATE:20251007
+DTSTAMP:20241203T084727Z
+UID:20251006T120000Z-1234567890abcdef1234567890ab2f5f@slcalendar.com
+CREATED:20241203T084727Z
+DESCRIPTION:* Public Holiday\n† Bank Holiday\n\n\nPublic Holidays are also 
+ applicable to the Postal\, Customs and Meteorological Departments. Changes 
+ in Public Holidays will be announced by Notification in the Government Gaze
+ tte.\n\nFull Moon Poya Holidays approved by the Poya Committee. These days 
+ are common Holidays applicable to all employees.
+LAST-MODIFIED:20241203T084727Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Vap Full Moon Poya Day *†
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT15H
+X-WR-ALARMUID:f1ac8342-14b1-47db-bc32-b5120b70bc2f
+UID:f1ac8342-14b1-47db-bc32-b5120b70bc2f
+X-APPLE-DEFAULT-ALARM:TRUE
+ATTACH;VALUE=URI:Chord
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251020
+DTEND;VALUE=DATE:20251021
+DTSTAMP:20241203T084727Z
+UID:20251020T120000Z-1234567890abcdef1234567890ab551e@slcalendar.com
+CREATED:20241203T084727Z
+DESCRIPTION:* Public Holiday\n† Bank Holiday\n\n\nPublic Holidays are also 
+ applicable to the Postal\, Customs and Meteorological Departments. Changes 
+ in Public Holidays will be announced by Notification in the Government Gaze
+ tte.
+LAST-MODIFIED:20241203T084727Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Deepavali Festival Day *†
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT15H
+X-WR-ALARMUID:d1089fc0-8c88-4f44-a528-3b7ca3eebca7
+UID:d1089fc0-8c88-4f44-a528-3b7ca3eebca7
+X-APPLE-DEFAULT-ALARM:TRUE
+ATTACH;VALUE=URI:Chord
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251105
+DTEND;VALUE=DATE:20251106
+DTSTAMP:20241203T084727Z
+UID:20251105T120000Z-1234567890abcdef1234567890ab1e2a@slcalendar.com
+CREATED:20241203T084727Z
+DESCRIPTION:* Public Holiday\n† Bank Holiday\n\n\nPublic Holidays are also 
+ applicable to the Postal\, Customs and Meteorological Departments. Changes 
+ in Public Holidays will be announced by Notification in the Government Gaze
+ tte.\n\nFull Moon Poya Holidays approved by the Poya Committee. These days 
+ are common Holidays applicable to all employees.
+LAST-MODIFIED:20241203T084727Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Il Full Moon Poya Day *†
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT15H
+X-WR-ALARMUID:cb6547d5-e974-4754-8cb2-eb1cd6606772
+UID:cb6547d5-e974-4754-8cb2-eb1cd6606772
+X-APPLE-DEFAULT-ALARM:TRUE
+ATTACH;VALUE=URI:Chord
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251204
+DTEND;VALUE=DATE:20251205
+DTSTAMP:20241203T084727Z
+UID:20251204T120000Z-1234567890abcdef1234567890ab0da7@slcalendar.com
+CREATED:20241203T084727Z
+DESCRIPTION:* Public Holiday\n† Bank Holiday\n\n\nPublic Holidays are also 
+ applicable to the Postal\, Customs and Meteorological Departments. Changes 
+ in Public Holidays will be announced by Notification in the Government Gaze
+ tte.\n\nFull Moon Poya Holidays approved by the Poya Committee. These days 
+ are common Holidays applicable to all employees.
+LAST-MODIFIED:20241203T084727Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Unduvap Full Moon Poya Day *†
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT15H
+X-WR-ALARMUID:d5282952-64a5-45a2-b3b1-f6e083e66a48
+UID:d5282952-64a5-45a2-b3b1-f6e083e66a48
+X-APPLE-DEFAULT-ALARM:TRUE
+ATTACH;VALUE=URI:Chord
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251225
+DTEND;VALUE=DATE:20251226
+DTSTAMP:20241203T084727Z
+UID:20251225T120000Z-1234567890abcdef1234567890abfc41@slcalendar.com
+CREATED:20241203T084727Z
+DESCRIPTION:* Public Holiday\n† Bank Holiday\n‡ Mercantile Holiday\n\n\nPub
+ lic Holidays are also applicable to the Postal\, Customs and Meteorological
+  Departments. Changes in Public Holidays will be announced by Notification 
+ in the Government Gazette.
+LAST-MODIFIED:20241203T084727Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Christmas Day *†‡
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT15H
+X-WR-ALARMUID:bf3d2bbf-d2b3-4228-9c77-5bb3f5b28367
+UID:bf3d2bbf-d2b3-4228-9c77-5bb3f5b28367
+X-APPLE-DEFAULT-ALARM:TRUE
+ATTACH;VALUE=URI:Chord
+END:VALARM
+END:VEVENT
+
+END:VCALENDAR
